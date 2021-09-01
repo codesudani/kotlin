@@ -1,3 +1,4 @@
+fun main(args : Array<String>) {  
 // Syntax :
 // var variableName = value 
 
@@ -32,3 +33,4 @@ val lastName = "Doe"
 val fullName = firstName + lastName
 println(fullName)
 
+}
